@@ -7,13 +7,13 @@
 ---
 
 ## 👋 About Me
-I am a **Software Engineer** specializing in scalable MERN and Python backends[cite: 5]. [cite_start]I have a strong foundation in API design, database optimization, and high-performance algorithmic problem solving.
+I am a **Software Engineer** specializing in scalable MERN and Python backends. I have a strong foundation in API design, database optimization, and high-performance algorithmic problem solving.
 
 ### 🏆 Achievements
-* [cite_start]**Global Rank 172/500K+** in TCS CodeVita Season 13[cite: 38].
-* [cite_start]**Zonal Winner** at the Amaravati Quantum Valley Hackathon for a quantum routing optimizer[cite: 41, 43].
-* [cite_start]**300+ DSA problems** solved across LeetCode, CodeChef, and HackerRank[cite: 44].
-* [cite_start]**Oracle Generative AI Professional** certified[cite: 46].
+* **Global Rank 172/500K+** in TCS CodeVita Season 13.
+* **Zonal Winner** at the Amaravati Quantum Valley Hackathon for a quantum routing optimizer.
+* **300+ DSA problems** solved across LeetCode, CodeChef, and HackerRank.
+* **Oracle Generative AI Professional** certified.
 
 ---
 
