@@ -10,7 +10,7 @@
 I am a **Software Engineer** specializing in scalable MERN and Python backends. I have a strong foundation in API design, database optimization, and high-performance algorithmic problem solving.
 
 ### 🏆 Achievements
-* **Global Rank 172/500K+** in TCS CodeVita Season 13.
+* **Global Rank 172/500K+** in TCS CodeVita Season 13 (Top 0.03% globally).
 * **Zonal Winner** at the Amaravati Quantum Valley Hackathon for a quantum routing optimizer.
 * **300+ DSA problems** solved across LeetCode, CodeChef, and HackerRank.
 * **Oracle Generative AI Professional** certified.
@@ -18,35 +18,34 @@ I am a **Software Engineer** specializing in scalable MERN and Python backends. 
 ---
 
 ## 🛠️ Work Experience
-**Software Development Engineer Intern | [cite_start]Scimics ED Tech** (Jan. 2025 – Aug. 2025) [cite: 13, 14, 15]
-* Developed **15+ RESTful APIs** with JWT authentication and pagination[cite: 16].
-* [cite_start]Reduced API latency by **30%** through SQL optimization and Redis caching[cite: 17].
-* [cite_start]Designed normalized **PostgreSQL** schemas for complex data structures[cite: 18].
+**Software Development Engineer Intern | Scimics ED Tech** (Jan. 2025 – Aug. 2025)
+* **Live Production Portals:** * [JCRS Eduvalley School](https://jcrseduvalleyschool.com/)
+  * [Kalyan Battersetty Portal](https://kalyanbattersetty.com/)
+* Developed **15+ RESTful APIs** with JWT authentication and pagination.
+* Reduced API latency by **30%** through SQL optimization and Redis caching.
+* Designed normalized **PostgreSQL** schemas for complex data structures.
 
 ---
 
 ## 📂 Featured Projects
-### 🤖 RepoRAG — Repository Intelligence Tool
-* Built an intent-aware **RAG system** using LlamaIndex and Groq (Llama 3.1)[cite: 21, 22].
-* [cite_start]Features auto-generated **Mermaid.js** architecture diagrams for codebase analysis[cite: 24].
+### 🤖 [RepoRAG — Repository Intelligence Tool](https://repo-rag.vercel.app)
+* Built an intent-aware **RAG system** using LlamaIndex and Groq (Llama 3.1).
+* Features auto-generated **Mermaid.js** architecture diagrams for codebase analysis.
 
-### 🛍️ Full-Stack E-Commerce Platform
-* [cite_start]Engineered a MERN platform with **Razorpay** integration and secure JWT auth[cite: 25, 26].
-* Implemented dynamic filtering and cart persistence with a responsive UI[cite: 27].
+### 🛍️ [Shop Smart & Chic — E-Commerce Platform](https://shop-smart-and-chic.vercel.app/)
+* Engineered a MERN platform with **Razorpay** integration and secure JWT auth.
+* Implemented dynamic filtering, cart persistence, and order tracking.
 
 ### 📅 Event Management System & CRM
-* [cite_start]Architected a platform on **AWS EC2** managing 1,500+ participants[cite: 28, 29, 30].
-* [cite_start]Created an admin portal with real-time analytics and automated notifications[cite: 31].
+* Architected a platform on **AWS EC2** managing 1,500+ participants.
+* Created an admin portal with real-time analytics and automated notifications.
 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bhanu1232&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bhanu1232&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=bhanu1232&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanu1232&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bhanu1232&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
