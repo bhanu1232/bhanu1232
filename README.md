@@ -7,7 +7,7 @@
 ---
 
 ## 👋 About Me
-[cite_start]I am a **Software Engineer** specializing in scalable MERN and Python backends[cite: 5]. [cite_start]I have a strong foundation in API design, database optimization, and high-performance algorithmic problem solving[cite: 5, 40].
+I am a **Software Engineer** specializing in scalable MERN and Python backends[cite: 5]. [cite_start]I have a strong foundation in API design, database optimization, and high-performance algorithmic problem solving.
 
 ### 🏆 Achievements
 * [cite_start]**Global Rank 172/500K+** in TCS CodeVita Season 13[cite: 38].
