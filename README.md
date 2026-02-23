@@ -1,54 +1,58 @@
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhanuprakashchowdam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhanuchowdam@gmail.com) 
+# Chowdam Bhanu Prakash
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+**Backend SDE** · Node.js · FastAPI · Python · C++ · Distributed Systems
 
----
-
-## 👋 About Me
-I am a **Software Engineer** specializing in scalable MERN and Python backends. I have a strong foundation in API design, database optimization, and high-performance algorithmic problem solving.
-
-### 🏆 Achievements
-* **Global Rank 172/500K+** in TCS CodeVita Season 13 (Top 0.03% globally).
-* **Zonal Winner** at the Amaravati Quantum Valley Hackathon for a quantum routing optimizer.
-* **300+ DSA problems** solved across LeetCode, CodeChef, and HackerRank.
-* **Oracle Generative AI Professional** certified.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhanuprakashchowdam)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhanuchowdam@gmail.com)
+[![Portfolio](https://img.shields.io/badge/RepoRAG-Live-brightgreen?style=flat)](https://repo-rag.vercel.app/)
 
 ---
 
-## 🛠️ Work Experience
-**Software Development Engineer Intern | Scimics ED Tech** (Jan. 2025 – Aug. 2025)
-* **Live Production Portals:** * [JCRS Eduvalley School](https://jcrseduvalleyschool.com/)
-  * [Kalyan Battersetty Portal](https://kalyanbattersetty.com/)
-* Developed **15+ RESTful APIs** with JWT authentication and pagination.
-* Reduced API latency by **30%** through SQL optimization and Redis caching.
-* Designed normalized **PostgreSQL** schemas for complex data structures.
+## About
+
+Backend-focused engineer (B.Tech CSE, 2026) with internship experience building production APIs, AI retrieval systems, and systems-level software. I care about performance, clean architecture, and shipping things that work under load.
+
+- **Global Rank 172** at TCS CodeVita Season 13 out of 500,000+ participants (Top 0.03%)
+- **Zonal Winner** · Amaravati Quantum Valley Hackathon · Led 4-member team
+- **300+ DSA problems** solved on LeetCode, CodeChef, and HackerRank
+- **Oracle Generative AI Professional** certified
 
 ---
 
-## 📂 Featured Projects
-### 🤖 [RepoRAG — Repository Intelligence Tool](https://repo-rag.vercel.app)
-* Built an intent-aware **RAG system** using LlamaIndex and Groq (Llama 3.1).
-* Features auto-generated **Mermaid.js** architecture diagrams for codebase analysis.
+## Featured Projects
 
-### 🛍️ [Shop Smart & Chic — E-Commerce Platform](https://shop-smart-and-chic.vercel.app/)
-* Engineered a MERN platform with **Razorpay** integration and secure JWT auth.
-* Implemented dynamic filtering, cart persistence, and order tracking.
+### [RepoRAG Pro](https://repo-rag.vercel.app/) · AI Codebase Intelligence Agent
+FastAPI backend with a 3-stage hybrid RAG pipeline (pgvector + BM25), Gemini embeddings, Pinecone vector DB, and Groq (Llama 3) for LLM responses.
+- 90% search space reduction · 60% faster than baseline (18ms vs 45ms) · 95% recall
 
-### 📅 Event Management System & CRM
-* Architected a platform on **AWS EC2** managing 1,500+ participants.
-* Created an admin portal with real-time analytics and automated notifications.
+### [Q-Route](https://github.com/bhanu1232/Quantum_Fleet_Optimization) · Quantum-Powered Fleet Optimizer
+QAOA-based Vehicle Routing solver using Qiskit AerSimulator + OSRM real road networks.
+- 10–25% better routes than greedy heuristics · 95–98% road distance accuracy · React + FastAPI
+
+### [ChronoStore](https://github.com/bhanu1232/ChronoStore) · In-Memory KV Engine (C++)
+Multi-threaded key-value store with O(1) get/set, LRU eviction, TTL expiration, and a Redis-compatible API.
+- 50,000+ ops/sec · mutex-guarded thread safety · GET, SET, DEL, TTL, EXPIRE
+
+---
+
+## Tech Stack
+
+**Languages** · C++ · Python · JavaScript · SQL
+
+**Backend** · Node.js · Express.js · FastAPI · REST APIs · JWT · Microservices
+
+**Databases** · PostgreSQL · MongoDB · MySQL · Redis · pgvector · Pinecone
+
+**AI / ML** · LlamaIndex · Groq · Google Gemini · Qiskit · RAG Pipelines
+
+**Tools** · Docker · AWS EC2 · GitHub Actions · Git · CI/CD
 
 ---
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=bhanu1232&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanu1232&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Work
 
+**SDE Intern · Scimics EDTech** · Mar 2025 – Jun 2025
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Built a Node.js content delivery backend for 2,000+ concurrent users, a FastAPI admin dashboard replacing manual workflows, and reduced API response time by 30% via PostgreSQL tuning and Redis caching. Deployed on AWS EC2 with GitHub Actions CI/CD and Jest tests, cutting production bugs by 15%.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bhanu1232&icon=0&color=0)](https://visitcount.itsvg.in)
