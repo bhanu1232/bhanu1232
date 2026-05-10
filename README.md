@@ -1,58 +1,72 @@
 # Chowdam Bhanu Prakash
-
-**Backend SDE** · Node.js · FastAPI · Python · C++ · Distributed Systems
-
+**Full Stack / Backend Engineer** · Node.js · React · Python · C++
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhanuprakashchowdam)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhanuchowdam@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cbhanuprakash1212@gmail.com)
 [![Portfolio](https://img.shields.io/badge/RepoRAG-Live-brightgreen?style=flat)](https://repo-rag.vercel.app/)
 
 ---
 
 ## About
 
-Backend-focused engineer (B.Tech CSE, 2026) with internship experience building production APIs, AI retrieval systems, and systems-level software. I care about performance, clean architecture, and shipping things that work under load.
+Full stack engineer (B.Tech CSE, SVU Tirupati, 2026) with production experience building web applications, APIs, AI retrieval systems, and systems-level software. Focused on performance, clean architecture, and shipping things that work under load.
 
-- **Global Rank 172** at TCS CodeVita Season 13 out of 500,000+ participants (Top 0.03%)
-- **Zonal Winner** · Amaravati Quantum Valley Hackathon · Led 4-member team
+- **State Finalist** · APSCHE Amaravati Quantum Valley Hackathon 2025 · Led 6-member team · Zonal Winner
 - **300+ DSA problems** solved on LeetCode, CodeChef, and HackerRank
 - **Oracle Generative AI Professional** certified
-
----
-
-## Featured Projects
-
-### [RepoRAG Pro](https://repo-rag.vercel.app/) · AI Codebase Intelligence Agent
-FastAPI backend with a 3-stage hybrid RAG pipeline (pgvector + BM25), Gemini embeddings, Pinecone vector DB, and Groq (Llama 3) for LLM responses.
-- 90% search space reduction · 60% faster than baseline (18ms vs 45ms) · 95% recall
-
-### [Q-Route](https://github.com/bhanu1232/Quantum_Fleet_Optimization) · Quantum-Powered Fleet Optimizer
-QAOA-based Vehicle Routing solver using Qiskit AerSimulator + OSRM real road networks.
-- 10–25% better routes than greedy heuristics · 95–98% road distance accuracy · React + FastAPI
-
-### [ChronoStore](https://github.com/bhanu1232/ChronoStore) · In-Memory KV Engine (C++)
-Multi-threaded key-value store with O(1) get/set, LRU eviction, TTL expiration, and a Redis-compatible API.
-- 50,000+ ops/sec · mutex-guarded thread safety · GET, SET, DEL, TTL, EXPIRE
-
----
-
-## Tech Stack
-
-**Languages** · C++ · Python · JavaScript · SQL
-
-**Backend** · Node.js · Express.js · FastAPI · REST APIs · JWT · Microservices
-
-**Databases** · PostgreSQL · MongoDB · MySQL · Redis · pgvector · Pinecone
-
-**AI / ML** · LlamaIndex · Groq · Google Gemini · Qiskit · RAG Pipelines
-
-**Tools** · Docker · AWS EC2 · GitHub Actions · Git · CI/CD
+- **CGPA: 8.01/10** · Sri Venkateshwara University
 
 ---
 
 ## Work
 
-**SDE Intern · Scimics EDTech** · Mar 2025 – Jun 2025
+**Full Stack Developer Intern · SCIMICS EdTech, Tirupati** · Mar 2025 – Jul 2025
 
-Built a Node.js content delivery backend for 2,000+ concurrent users, a FastAPI admin dashboard replacing manual workflows, and reduced API response time by 30% via PostgreSQL tuning and Redis caching. Deployed on AWS EC2 with GitHub Actions CI/CD and Jest tests, cutting production bugs by 15%.
+- Built 6+ responsive pages for [JCRS Edu Valley School](https://www.jcrseduvalleyschool.com) using React.js and Tailwind CSS
+- Developed end-to-end client website [kalyanbattersetty.com](https://www.kalyanbattersetty.com) with full consultation flow
+- Enabled online consultations contributing to Rs 10,00,000+ in revenue generation
 
 ---
+
+## Featured Projects
+
+### [Tech Fest Platform](https://svucyno.com) · SV University Official Tech Fest
+Node.js + React platform serving 1,000+ participants with real-time registration APIs and an admin dashboard.
+- Reduced manual coordination effort by 60% during the live event
+
+### [SVUCE Website](https://svuce.edu.in) · Official College Website with CMS
+10+ responsive pages built with React.js and Tailwind CSS with a full Content Management System.
+- Reduced manual website maintenance effort by 80% through dynamic admin-based content management
+
+### [Q-Route](https://github.com/bhanu1232/Quantum_Fleet_Optimization) · Quantum-Powered Fleet Optimizer
+QAOA-based Vehicle Routing solver using Qiskit AerSimulator + OSRM real road networks. React + FastAPI.
+- 10–25% better routes than greedy heuristics · 95–98% road distance accuracy
+
+### [RepoRAG Pro](https://repo-rag.vercel.app/) · AI Codebase Intelligence Agent
+FastAPI backend with a 3-stage hybrid RAG pipeline (pgvector + BM25), Gemini embeddings, Pinecone vector DB, and Groq (Llama 3) for LLM responses.
+- 90% search space reduction · 60% faster than baseline (18ms vs 45ms) · 95% recall
+
+
+---
+
+## Tech Stack
+
+**Languages** · Python · JavaScript · C++ · SQL
+
+**Frontend** · React.js · Tailwind CSS · HTML · CSS
+
+**Backend** · Node.js · Express.js · FastAPI · REST APIs · JWT
+
+**Databases** · MongoDB · MySQL · Pinecone
+
+**AI / ML** · LlamaIndex · Groq · Google Gemini · Qiskit · RAG Pipelines
+
+**Tools** · GitHub · Git 
+
+---
+
+## Achievements
+
+- Technical Mentor, SV University Coding Club — mentored 50+ students in full stack development
+- APSCHE AQVH 2025 State Finalist — Quantum VRP optimizer using QAOA
+- React Developer Certification — Udemy
+- Oracle Generative AI Professional — Certified
