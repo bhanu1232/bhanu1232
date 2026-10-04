@@ -1,6 +1,10 @@
-# Chowdam Bhanu Prakash
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F3F4F6&height=110&section=header&text=Chowdam%20Bhanu%20Prakash&fontSize=36&fontColor=111827&fontAlignY=42&desc=Software%20Engineer%20%7C%20Python%20%7C%20FastAPI%20%7C%20AI%20Retrieval%20Systems&descSize=16&descAlignY=68&descColor=374151" alt="Chowdam Bhanu Prakash, Software Engineer" />
 
-Software Engineer | Python | FastAPI | AI Retrieval Systems | Bangalore, India
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=900&color=FFFFFF&background=111827&center=true&vCenter=true&width=640&height=60&lines=%3E+PLAYER+1:+Bhanu+Prakash;%3E+CLASS:+Software+Engineer;%3E+SKILLS:+Python+%7C+FastAPI+%7C+RAG;%3E+RANK:+TCS+CodeVita+Global+172;%3E+STATUS:+Open+to+work" alt="Animated terminal: Player 1 Bhanu Prakash, Software Engineer, Python FastAPI RAG, TCS CodeVita Global Rank 172, Open to work" />
+</div>
+
+Bangalore, India
 
 Computer Science graduate (B.Tech, 2026) with internship experience building backend services, REST APIs, and AI applications. TCS CodeVita Season 13 Global Rank 172. 300+ DSA problems solved.
 
@@ -8,9 +12,7 @@ Computer Science graduate (B.Tech, 2026) with internship experience building bac
 
 Open to full-time SDE and Full Stack roles. Open to relocation across India.
 
----
-
-## Technical Skills
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F3F4F6&height=44&section=header&text=Technical%20Skills&fontSize=20&fontColor=111827&fontAlignY=50" alt="Technical Skills" />
 
 | Area | Tools |
 |:---|:---|
@@ -22,9 +24,7 @@ Open to full-time SDE and Full Stack roles. Open to relocation across India.
 | Core CS | DSA, OOP, DBMS, Operating Systems |
 | Tools | Git, GitHub, Docker, Pytest, Postman, Vercel |
 
----
-
-## Experience
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F3F4F6&height=44&section=header&text=Experience&fontSize=20&fontColor=111827&fontAlignY=50" alt="Experience" />
 
 ### Software Development Engineer Intern, SCIMICS EdTech
 Mar 2025 to Aug 2025
@@ -34,9 +34,7 @@ Mar 2025 to Aug 2025
 - Wrote unit and API tests with Pytest covering services, edge cases, and critical workflows.
 - Supported a platform processing 1,000+ monthly Razorpay transactions.
 
----
-
-## Projects
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F3F4F6&height=44&section=header&text=Projects&fontSize=20&fontColor=111827&fontAlignY=50" alt="Projects" />
 
 ### RepoRAG: AI Code Intelligence System
 [Live](https://repo-rag.vercel.app/) | [Source](https://github.com/bhanu1232)
@@ -75,16 +73,12 @@ QAOA vehicle-routing solver on Qiskit AerSimulator with OSRM road networks.
 - 95 to 98% road-distance accuracy.
 - Stack: Python, Qiskit, FastAPI, React.
 
----
-
-## Education
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F3F4F6&height=44&section=header&text=Education&fontSize=20&fontColor=111827&fontAlignY=50" alt="Education" />
 
 - B.Tech, Computer Science and Engineering. Sri Venkateshwara University, Tirupati. Apr 2026. CGPA 8.31/10.
 - Diploma, Computer Engineering. Govt. Polytechnic College, Kuppam. Jul 2023. 86.86%.
 
----
-
-## Achievements and Certifications
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F3F4F6&height=44&section=header&text=Achievements%20and%20Certifications&fontSize=20&fontColor=111827&fontAlignY=50" alt="Achievements and Certifications" />
 
 - TCS CodeVita Season 13: Global Rank 172 (top 0.03% of 500,000+ participants).
 - APSCHE AQVH 2025 Hackathon: 1st place at zonal level. Advanced to the state final.
@@ -92,9 +86,7 @@ QAOA vehicle-routing solver on Qiskit AerSimulator with OSRM road networks.
 - Oracle Cloud Infrastructure 2025 Certified Generative AI Professional.
 - Technical Mentor, SVU Coding Club: mentored 50+ students.
 
----
-
-## Contact
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F3F4F6&height=44&section=header&text=Contact&fontSize=20&fontColor=111827&fontAlignY=50" alt="Contact" />
 
 - Email: bhanuchowdam@gmail.com
 - LinkedIn: [linkedin.com/in/bhanuprakashchowdam](https://linkedin.com/in/bhanuprakashchowdam)
